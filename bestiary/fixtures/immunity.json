@@ -1,0 +1,114 @@
+[
+    {
+        "model": "bestiary.immunity",
+        "pk": 1,
+        "fields": {
+            "name": "Brak"
+        }
+    },
+    {
+        "model": "bestiary.immunity",
+        "pk": 2,
+        "fields": {
+            "name": "Trucizny, powalenia"
+        }
+    },
+    {
+        "model": "bestiary.immunity",
+        "pk": 3,
+        "fields": {
+            "name": "strącenie kuszą"
+        }
+    },
+    {
+        "model": "bestiary.immunity",
+        "pk": 4,
+        "fields": {
+            "name": "Jest odporny na ekstremalnie niskie temperatury"
+        }
+    },
+    {
+        "model": "bestiary.immunity",
+        "pk": 5,
+        "fields": {
+            "name": "Odporny na większość efektów krytycznych oraz broń sieczną"
+        }
+    },
+    {
+        "model": "bestiary.immunity",
+        "pk": 6,
+        "fields": {
+            "name": "Odporny jest na żelazo  ."
+        }
+    },
+    {
+        "model": "bestiary.immunity",
+        "pk": 7,
+        "fields": {
+            "name": "Odporny na niektóre trucizny"
+        }
+    },
+    {
+        "model": "bestiary.immunity",
+        "pk": 8,
+        "fields": {
+            "name": "oślepienie powalenie oszołomienie krwawienie"
+        }
+    },
+    {
+        "model": "bestiary.immunity",
+        "pk": 9,
+        "fields": {
+            "name": "Srebro, ogień, czosnek, światło."
+        }
+    },
+    {
+        "model": "bestiary.immunity",
+        "pk": 10,
+        "fields": {
+            "name": "krwawienie i większość trucizn"
+        }
+    },
+    {
+        "model": "bestiary.immunity",
+        "pk": 11,
+        "fields": {
+            "name": "Są w miarę odporne na krwawienie i większość trucizn."
+        }
+    },
+    {
+        "model": "bestiary.immunity",
+        "pk": 12,
+        "fields": {
+            "name": "Gwiazda tańcząca"
+        }
+    },
+    {
+        "model": "bestiary.immunity",
+        "pk": 13,
+        "fields": {
+            "name": "Biesy prawdopodobnie odporne na srebro  ."
+        }
+    },
+    {
+        "model": "bestiary.immunity",
+        "pk": 14,
+        "fields": {
+            "name": "Znak Aard"
+        }
+    },
+    {
+        "model": "bestiary.immunity",
+        "pk": 15,
+        "fields": {
+            "name": "Odporny na większość trucizn i na oszołomienie"
+        }
+    },
+    {
+        "model": "bestiary.immunity",
+        "pk": 16,
+        "fields": {
+            "name": "Znak Igni"
+        }
+    }
+]

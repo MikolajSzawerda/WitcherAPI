@@ -1,0 +1,79 @@
+[
+    {
+        "model": "bestiary.clasification",
+        "pk": 1,
+        "fields": {
+            "name": "Ogrowate"
+        }
+    },
+    {
+        "model": "bestiary.clasification",
+        "pk": 2,
+        "fields": {
+            "name": "Ornitoreptyle"
+        }
+    },
+    {
+        "model": "bestiary.clasification",
+        "pk": 3,
+        "fields": {
+            "name": "Zwierzęta"
+        }
+    },
+    {
+        "model": "bestiary.clasification",
+        "pk": 4,
+        "fields": {
+            "name": "Wampiry"
+        }
+    },
+    {
+        "model": "bestiary.clasification",
+        "pk": 5,
+        "fields": {
+            "name": "Relikty"
+        }
+    },
+    {
+        "model": "bestiary.clasification",
+        "pk": 6,
+        "fields": {
+            "name": "Drakonidy"
+        }
+    },
+    {
+        "model": "bestiary.clasification",
+        "pk": 7,
+        "fields": {
+            "name": "Insektoidy"
+        }
+    },
+    {
+        "model": "bestiary.clasification",
+        "pk": 8,
+        "fields": {
+            "name": "Trupojady"
+        }
+    },
+    {
+        "model": "bestiary.clasification",
+        "pk": 9,
+        "fields": {
+            "name": "Upiory"
+        }
+    },
+    {
+        "model": "bestiary.clasification",
+        "pk": 10,
+        "fields": {
+            "name": "Istoty magiczne"
+        }
+    },
+    {
+        "model": "bestiary.clasification",
+        "pk": 11,
+        "fields": {
+            "name": "Hybrydy"
+        }
+    }
+]

@@ -1,0 +1,233 @@
+[
+    {
+        "model": "bestiary.tactics",
+        "pk": 1,
+        "fields": {
+            "description": "Atakuje w grupach, stara się otoczyć przeciwnika, w razie niebezpieczeństwa tworzy wokół siebie osłonę z lodowych kolców"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 2,
+        "fields": {
+            "description": "Atakuje pięściami Rzuca kamieniami Blokuje ataki za pomocą lodowej skorupy na ciele Szarżuje na przeciwnika"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 3,
+        "fields": {
+            "description": "Przybiera niematerialną postać Teleportuje się Oślepia przeciwnika i tworzy trzy swoje kopie, dzięki którym regeneruje zdrowie"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 4,
+        "fields": {
+            "description": "Hipnotyzuje Szarżuje Regeneruje się Atakuje za pomocą poroża i przednich kończyn"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 5,
+        "fields": {
+            "description": "Przybiera niematerialną postać Znika, a następnie pojawia się przy przeciwniku bądź dalej od niego Tymczasowo oślepia przeciwnika i tworzy trzy swoje kopie, dzięki którym regeneruje zdrowie"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 6,
+        "fields": {
+            "description": "Atakują w grupie"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 7,
+        "fields": {
+            "description": "Przyzywa wilki Atakuje za pomocą długich i silnych ramion Teleportuje się Zapuszcza korzenie, które przebijają przeciwnika"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 8,
+        "fields": {
+            "description": "Teleportuje się Przyzywa wilki i kruki Zapuszcza korzenie, za pomocą których przebija przeciwnika Atakuje za pomocą długich i silnych ramion"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 9,
+        "fields": {
+            "description": "Hipnotyzuje Szarżuje Atakuje za pomocą poroża"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 10,
+        "fields": {
+            "description": "Próbują powalić ofiarę i pożreć ją żywcem"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 11,
+        "fields": {
+            "description": "lata nad przeciwnikiem atakuje z powietrza"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 12,
+        "fields": {
+            "description": "Polega na swojej najgroźniejszej broni - truciźnie, jednej z najpotężniejszych ze znanych ludzkości"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 13,
+        "fields": {
+            "description": "Atakuje w grupach, stara się wykorzystać przewagę liczebną"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 14,
+        "fields": {
+            "description": "Atakuje magicznymi pociskami"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 15,
+        "fields": {
+            "description": "Szarżuje na przeciwnika Atakuje pięściami Rzuca kamieniami Blokuje ataki za pomocą skalnej skorupy na grzbiecie"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 16,
+        "fields": {
+            "description": "Stara się zaskoczyć ofiarę od tyłu i uderzyć dziobem między kręgi lub w tętnicę nerkową"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 17,
+        "fields": {
+            "description": "atakują z powietrza, pikują na cel, zasłaniają się skrzydłami."
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 18,
+        "fields": {
+            "description": "Ich najgroźniejszą bronią, oprócz morderczej szarży, są zdolności hipnotyczne – za pomocą środkowego oka potrafią tak zamącić percepcję ofiary, by owa nie widziała nic poza owym okiem."
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 19,
+        "fields": {
+            "description": "Atakuje z powietrza Zatruwa przeciwnika"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 20,
+        "fields": {
+            "description": "Czają się pod wodą, starając się złapać ofiarę z zaskoczenia i ją utopić."
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 21,
+        "fields": {
+            "description": "Atakuje z powietrza Ogłusza przeciwnika za pomocą skrzydeł Szarżuje na przeciwnika Jego ataki wywołują krwawienie"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 22,
+        "fields": {
+            "description": "wyskakują spod ziemi i starają się powalić ofiarę, by następnie ją zatruć"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 23,
+        "fields": {
+            "description": "czają się pod wodą, starając się złapać ofiarę z zaskoczenia i ją utopić"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 24,
+        "fields": {
+            "description": "Używa magii ognia Ogłusza przeciwnika, gdy się do niej zbliży"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 25,
+        "fields": {
+            "description": "Ataki za pomocą ciężkich łap, czasami stają na tylnych i starają się przygnieść przeciwnika swoim ciężarem."
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 26,
+        "fields": {
+            "description": "Zatruwa przeciwnika za pomocą długiego języka Atakuje pazurami – dzięki dużej rozpiętości ramion trudno uniknąć ciosu"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 27,
+        "fields": {
+            "description": "Atakują stadnie, zadając silne ciosy olbrzymimi pazurami"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 28,
+        "fields": {
+            "description": "Potrafi przybrać postać dowolnego leśnego stworzenia  . Pod postacią żbika lub wilka często atakuje ofiarę z zaskoczenia, zeskakując z drzewa i rozrywając gardło  ."
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 29,
+        "fields": {
+            "description": "Pikuje Pluje kwasem Rzuca się na przeciwnika Jego ataki wywołują krwawienie"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 30,
+        "fields": {
+            "description": "Zadaje dotkliwe rany długimi pazurami oraz kłami. Często w czasie walki potrafi stać się niewidzialnym."
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 31,
+        "fields": {
+            "description": "Stara się powalić przeciwnika, kopie, gryzie i drapie"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 32,
+        "fields": {
+            "description": "pluje żrącym kwasem pikuje"
+        }
+    },
+    {
+        "model": "bestiary.tactics",
+        "pk": 33,
+        "fields": {
+            "description": "Szarżuje Atakuje pięściami Blokuje ataki za pomocą twardej skóry na grzbiecie"
+        }
+    }
+]

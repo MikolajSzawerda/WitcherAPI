@@ -1,0 +1,275 @@
+[
+    {
+        "model": "bestiary.weakness",
+        "pk": 1,
+        "fields": {
+            "name": "Bomba dwimerytowa"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 2,
+        "fields": {
+            "name": "Znak Yrden"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 3,
+        "fields": {
+            "name": "Olej przeciw wampirom"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 4,
+        "fields": {
+            "name": "Olej przeciw istotom magicznym"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 5,
+        "fields": {
+            "name": "Znak Quen"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 6,
+        "fields": {
+            "name": "bomba dwimerytowa"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 7,
+        "fields": {
+            "name": "Kartacz"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 8,
+        "fields": {
+            "name": "Znak Igni"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 9,
+        "fields": {
+            "name": "Stal"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 10,
+        "fields": {
+            "name": "Czarcia Purchawa"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 11,
+        "fields": {
+            "name": "Srebro"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 12,
+        "fields": {
+            "name": "Olej przeciw ornitoreptylom"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 13,
+        "fields": {
+            "name": "Olej przeciw ogrowatym"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 14,
+        "fields": {
+            "name": "Olej przeciw hybrydom"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 15,
+        "fields": {
+            "name": "olej przeciw istotom magicznym"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 16,
+        "fields": {
+            "name": "Czarna Krew"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 17,
+        "fields": {
+            "name": "Księżycowy pył"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 18,
+        "fields": {
+            "name": "Srebro Olej Przeciw Trupojadom"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 19,
+        "fields": {
+            "name": "Olej Przeciw Trupojadom"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 20,
+        "fields": {
+            "name": "Ogień"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 21,
+        "fields": {
+            "name": "Wampira wyższego może zabić tylko inny wampir wyższy"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 22,
+        "fields": {
+            "name": "petarda"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 23,
+        "fields": {
+            "name": "Samum"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 24,
+        "fields": {
+            "name": "Olej przeciw reliktom"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 25,
+        "fields": {
+            "name": "Olej przeciw zwierzętom"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 26,
+        "fields": {
+            "name": "Olej przeciw upiorom"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 27,
+        "fields": {
+            "name": "Wilga"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 28,
+        "fields": {
+            "name": "Olej przeciw insektoidom"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 29,
+        "fields": {
+            "name": "Olej Przeciw Wampirom"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 30,
+        "fields": {
+            "name": "Znak Aard"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 31,
+        "fields": {
+            "name": "Olej Przeciw Drakonidom"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 32,
+        "fields": {
+            "name": "Olej przeciw drakonidom"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 33,
+        "fields": {
+            "name": "Znak Aksji"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 34,
+        "fields": {
+            "name": "Czarcia purchawa"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 35,
+        "fields": {
+            "name": "Potężna magia"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 36,
+        "fields": {
+            "name": "Olej przeciwko zwierzętom"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 37,
+        "fields": {
+            "name": "Olej przeciw trupojadom"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 38,
+        "fields": {
+            "name": "Powalenie"
+        }
+    },
+    {
+        "model": "bestiary.weakness",
+        "pk": 39,
+        "fields": {
+            "name": "Olej Przeciw Reliktom"
+        }
+    }
+]

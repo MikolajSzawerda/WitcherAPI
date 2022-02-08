@@ -1,0 +1,988 @@
+[
+    {
+        "model": "bestiary.beast",
+        "pk": 1,
+        "fields": {
+            "name": "Leszy",
+            "nickname": "lesij",
+            "weaknesses": [
+                11,
+                8,
+                1,
+                39
+            ],
+            "distribution": [
+                28
+            ],
+            "alchemical_ingredients": [
+                23
+            ],
+            "feed": [
+                5
+            ],
+            "immunities": [
+                6
+            ],
+            "clasification": 1,
+            "tacticts": 28
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 2,
+        "fields": {
+            "name": "Bazyliszek",
+            "nickname": "",
+            "weaknesses": [
+                11,
+                30,
+                31
+            ],
+            "distribution": [
+                7
+            ],
+            "alchemical_ingredients": [
+                50,
+                85,
+                24
+            ],
+            "feed": [
+                4
+            ],
+            "immunities": [
+                15
+            ],
+            "clasification": 11,
+            "tacticts": 12
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 3,
+        "fields": {
+            "name": "Skrzekacz",
+            "nickname": "Skrzekun",
+            "weaknesses": [
+                32,
+                30,
+                7
+            ],
+            "distribution": [
+                12
+            ],
+            "alchemical_ingredients": [
+                61,
+                20,
+                72,
+                76,
+                47,
+                46,
+                7
+            ],
+            "feed": [],
+            "immunities": [],
+            "clasification": 11,
+            "tacticts": 21
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 4,
+        "fields": {
+            "name": "Smok-z-fyresdal",
+            "nickname": "Smok",
+            "weaknesses": [
+                30,
+                32,
+                27,
+                7
+            ],
+            "distribution": [
+                16
+            ],
+            "alchemical_ingredients": [
+                40,
+                22,
+                9,
+                25,
+                77
+            ],
+            "feed": [],
+            "immunities": [],
+            "clasification": 11,
+            "tacticts": 19
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 5,
+        "fields": {
+            "name": "Sukkub",
+            "nickname": "",
+            "weaknesses": [
+                5,
+                14
+            ],
+            "distribution": [
+                32
+            ],
+            "alchemical_ingredients": [
+                33
+            ],
+            "feed": [
+                8
+            ],
+            "immunities": [
+                16
+            ],
+            "clasification": 6,
+            "tacticts": 14
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 6,
+        "fields": {
+            "name": "Bies",
+            "nickname": "",
+            "weaknesses": [
+                9,
+                20,
+                23,
+                8,
+                24,
+                10
+            ],
+            "distribution": [
+                34
+            ],
+            "alchemical_ingredients": [
+                5
+            ],
+            "feed": [
+                2
+            ],
+            "immunities": [
+                13
+            ],
+            "clasification": 1,
+            "tacticts": 18
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 8,
+        "fields": {
+            "name": "Topielec",
+            "nickname": "",
+            "weaknesses": [
+                11
+            ],
+            "distribution": [
+                9
+            ],
+            "alchemical_ingredients": [
+                68
+            ],
+            "feed": [
+                17
+            ],
+            "immunities": [
+                11
+            ],
+            "clasification": 4,
+            "tacticts": 20
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 9,
+        "fields": {
+            "name": "Katakan",
+            "nickname": "Wąpierz",
+            "weaknesses": [
+                8,
+                2,
+                3,
+                22,
+                17,
+                34
+            ],
+            "distribution": [
+                4
+            ],
+            "alchemical_ingredients": [],
+            "feed": [
+                10
+            ],
+            "immunities": [],
+            "clasification": 9,
+            "tacticts": 30
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 10,
+        "fields": {
+            "name": "Ogar-dzikiego-gonu",
+            "nickname": "",
+            "weaknesses": [
+                8,
+                33,
+                6,
+                15
+            ],
+            "distribution": [
+                33
+            ],
+            "alchemical_ingredients": [
+                48
+            ],
+            "feed": [
+                15
+            ],
+            "immunities": [
+                4
+            ],
+            "clasification": 5,
+            "tacticts": 1
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 11,
+        "fields": {
+            "name": "Zalnica",
+            "nickname": "",
+            "weaknesses": [
+                16,
+                37,
+                2,
+                5
+            ],
+            "distribution": [
+                25
+            ],
+            "alchemical_ingredients": [
+                51,
+                58,
+                22,
+                59,
+                75
+            ],
+            "feed": [
+                9
+            ],
+            "immunities": [],
+            "clasification": 4,
+            "tacticts": 26
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 12,
+        "fields": {
+            "name": "Wilk",
+            "nickname": "",
+            "weaknesses": [
+                9,
+                38
+            ],
+            "distribution": [
+                30
+            ],
+            "alchemical_ingredients": [
+                55
+            ],
+            "feed": [
+                6
+            ],
+            "immunities": [
+                1
+            ],
+            "clasification": 3,
+            "tacticts": 13
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 13,
+        "fields": {
+            "name": "Opinikus",
+            "nickname": "Bestia z Oxenfurckiej Puszczy",
+            "weaknesses": [
+                30,
+                14,
+                7
+            ],
+            "distribution": [
+                2
+            ],
+            "alchemical_ingredients": [
+                26,
+                72,
+                45,
+                86,
+                49,
+                37
+            ],
+            "feed": [],
+            "immunities": [],
+            "clasification": 6,
+            "tacticts": 29
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 14,
+        "fields": {
+            "name": "Czart",
+            "nickname": "",
+            "weaknesses": [
+                11,
+                24,
+                10
+            ],
+            "distribution": [
+                6
+            ],
+            "alchemical_ingredients": [
+                65,
+                69,
+                36
+            ],
+            "feed": [
+                11
+            ],
+            "immunities": [
+                14
+            ],
+            "clasification": 1,
+            "tacticts": 31
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 15,
+        "fields": {
+            "name": "Pazurnica",
+            "nickname": "",
+            "weaknesses": [
+                28,
+                5,
+                8
+            ],
+            "distribution": [
+                31
+            ],
+            "alchemical_ingredients": [
+                27
+            ],
+            "feed": [
+                16
+            ],
+            "immunities": [],
+            "clasification": 10,
+            "tacticts": 27
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 16,
+        "fields": {
+            "name": "Alghul",
+            "nickname": "",
+            "weaknesses": [
+                18,
+                33
+            ],
+            "distribution": [
+                8
+            ],
+            "alchemical_ingredients": [
+                52,
+                2,
+                15
+            ],
+            "feed": [
+                9
+            ],
+            "immunities": [
+                7
+            ],
+            "clasification": 4,
+            "tacticts": 10
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 17,
+        "fields": {
+            "name": "Duch-lasu",
+            "nickname": "Prastary leszy Leszy",
+            "weaknesses": [
+                8,
+                24,
+                1
+            ],
+            "distribution": [
+                26
+            ],
+            "alchemical_ingredients": [
+                8,
+                70,
+                86,
+                80,
+                31
+            ],
+            "feed": [],
+            "immunities": [],
+            "clasification": 1,
+            "tacticts": 8
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 18,
+        "fields": {
+            "name": "Lesnica",
+            "nickname": "",
+            "weaknesses": [
+                2,
+                26,
+                17
+            ],
+            "distribution": [
+                35
+            ],
+            "alchemical_ingredients": [
+                17,
+                54,
+                13,
+                3,
+                38
+            ],
+            "feed": [],
+            "immunities": [],
+            "clasification": 7,
+            "tacticts": 5
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 19,
+        "fields": {
+            "name": "Golem",
+            "nickname": "",
+            "weaknesses": [
+                1,
+                4
+            ],
+            "distribution": [
+                10
+            ],
+            "alchemical_ingredients": [
+                44
+            ],
+            "feed": [
+                12
+            ],
+            "immunities": [
+                5
+            ],
+            "clasification": 5
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 20,
+        "fields": {
+            "name": "Lup-lup",
+            "nickname": "",
+            "weaknesses": [
+                5,
+                13
+            ],
+            "distribution": [
+                29
+            ],
+            "alchemical_ingredients": [
+                12,
+                62,
+                53,
+                56,
+                43
+            ],
+            "feed": [],
+            "immunities": [],
+            "clasification": 8,
+            "tacticts": 33
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 21,
+        "fields": {
+            "name": "Troll-skalny",
+            "nickname": "Troll",
+            "weaknesses": [
+                5,
+                13
+            ],
+            "distribution": [
+                13,
+                1,
+                21,
+                5
+            ],
+            "alchemical_ingredients": [
+                4,
+                56,
+                62,
+                43
+            ],
+            "feed": [],
+            "immunities": [],
+            "clasification": 8,
+            "tacticts": 15
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 22,
+        "fields": {
+            "name": "Troll-lodowy",
+            "nickname": "Troll",
+            "weaknesses": [
+                5,
+                13
+            ],
+            "distribution": [
+                1
+            ],
+            "alchemical_ingredients": [
+                56,
+                57,
+                43
+            ],
+            "feed": [],
+            "immunities": [],
+            "clasification": 8,
+            "tacticts": 2
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 23,
+        "fields": {
+            "name": "Kernun",
+            "nickname": "",
+            "weaknesses": [
+                8,
+                24,
+                1
+            ],
+            "distribution": [
+                19
+            ],
+            "alchemical_ingredients": [
+                8,
+                20,
+                70,
+                80,
+                34
+            ],
+            "feed": [],
+            "immunities": [],
+            "clasification": 1,
+            "tacticts": 7
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 24,
+        "fields": {
+            "name": "Meluzyna",
+            "nickname": "",
+            "weaknesses": [
+                7,
+                14,
+                8,
+                5
+            ],
+            "distribution": [
+                17
+            ],
+            "alchemical_ingredients": [
+                39,
+                81,
+                83,
+                73,
+                41
+            ],
+            "feed": [],
+            "immunities": [
+                3
+            ],
+            "clasification": 6,
+            "tacticts": 11
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 25,
+        "fields": {
+            "name": "Morvudd",
+            "nickname": "",
+            "weaknesses": [
+                8,
+                24,
+                23,
+                34
+            ],
+            "distribution": [
+                3
+            ],
+            "alchemical_ingredients": [
+                60,
+                29,
+                42,
+                21,
+                30,
+                88
+            ],
+            "feed": [],
+            "immunities": [],
+            "clasification": 1,
+            "tacticts": 9
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 26,
+        "fields": {
+            "name": "Pies",
+            "nickname": "",
+            "weaknesses": [
+                25
+            ],
+            "distribution": [
+                22
+            ],
+            "alchemical_ingredients": [
+                84
+            ],
+            "feed": [
+                1
+            ],
+            "immunities": [],
+            "clasification": 3,
+            "tacticts": 6
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 27,
+        "fields": {
+            "name": "Skolopendromorf",
+            "nickname": "wij yghern",
+            "weaknesses": [
+                11,
+                28,
+                2
+            ],
+            "distribution": [],
+            "alchemical_ingredients": [],
+            "feed": [],
+            "immunities": [
+                8
+            ],
+            "clasification": 10,
+            "tacticts": 22
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 28,
+        "fields": {
+            "name": "Wyjec",
+            "nickname": "",
+            "weaknesses": [
+                8,
+                24,
+                34
+            ],
+            "distribution": [
+                23
+            ],
+            "alchemical_ingredients": [
+                6,
+                53,
+                64,
+                79,
+                35,
+                74
+            ],
+            "feed": [],
+            "immunities": [],
+            "clasification": 1,
+            "tacticts": 4
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 29,
+        "fields": {
+            "name": "Kuroliszek",
+            "nickname": "Skoffin, kokatryks, kokatryksja",
+            "weaknesses": [
+                11,
+                30,
+                12,
+                7
+            ],
+            "distribution": [],
+            "alchemical_ingredients": [],
+            "feed": [],
+            "immunities": [
+                2
+            ],
+            "clasification": 2,
+            "tacticts": 16
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 30,
+        "fields": {
+            "name": "Baba-cmentarna",
+            "nickname": "",
+            "weaknesses": [
+                16,
+                37,
+                2,
+                5
+            ],
+            "distribution": [
+                24
+            ],
+            "alchemical_ingredients": [
+                59,
+                75,
+                87,
+                79,
+                67,
+                51
+            ],
+            "feed": [
+                18
+            ],
+            "immunities": [],
+            "clasification": 4
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 31,
+        "fields": {
+            "name": "Wampir-wyzszy",
+            "nickname": "",
+            "weaknesses": [
+                35,
+                29,
+                8,
+                21
+            ],
+            "distribution": [
+                18
+            ],
+            "alchemical_ingredients": [],
+            "feed": [
+                13
+            ],
+            "immunities": [
+                9
+            ],
+            "clasification": 9
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 32,
+        "fields": {
+            "name": "Ghul",
+            "nickname": "",
+            "weaknesses": [
+                11,
+                19
+            ],
+            "distribution": [
+                14
+            ],
+            "alchemical_ingredients": [
+                78
+            ],
+            "feed": [
+                7
+            ],
+            "immunities": [
+                7
+            ],
+            "clasification": 4
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 33,
+        "fields": {
+            "name": "Salma",
+            "nickname": "",
+            "weaknesses": [
+                5,
+                14
+            ],
+            "distribution": [
+                20
+            ],
+            "alchemical_ingredients": [
+                10,
+                72,
+                33
+            ],
+            "feed": [],
+            "immunities": [],
+            "clasification": 6,
+            "tacticts": 24
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 34,
+        "fields": {
+            "name": "Gryf-krolewski",
+            "nickname": "",
+            "weaknesses": [
+                7,
+                14,
+                30,
+                5
+            ],
+            "distribution": [
+                27
+            ],
+            "alchemical_ingredients": [
+                45,
+                32,
+                66,
+                26,
+                89,
+                14,
+                82,
+                71,
+                63
+            ],
+            "feed": [
+                3
+            ],
+            "immunities": [],
+            "clasification": 6,
+            "tacticts": 17
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 35,
+        "fields": {
+            "name": "Licho-ze-studni",
+            "nickname": "",
+            "weaknesses": [
+                2,
+                26,
+                17
+            ],
+            "distribution": [
+                15
+            ],
+            "alchemical_ingredients": [
+                16,
+                18,
+                28,
+                54,
+                11,
+                1
+            ],
+            "feed": [],
+            "immunities": [],
+            "clasification": 7,
+            "tacticts": 3
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 36,
+        "fields": {
+            "name": "Utopiec",
+            "nickname": "Diabeł Morski, Utoplec, Utopek, Topiec",
+            "weaknesses": [
+                11,
+                20
+            ],
+            "distribution": [],
+            "alchemical_ingredients": [],
+            "feed": [],
+            "immunities": [
+                10
+            ],
+            "clasification": 4,
+            "tacticts": 23
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 37,
+        "fields": {
+            "name": "Niedzwiedz",
+            "nickname": "",
+            "weaknesses": [
+                36,
+                5,
+                8,
+                2
+            ],
+            "distribution": [
+                11
+            ],
+            "alchemical_ingredients": [
+                19
+            ],
+            "feed": [
+                14
+            ],
+            "immunities": [],
+            "clasification": 3,
+            "tacticts": 25
+        }
+    },
+    {
+        "model": "bestiary.beast",
+        "pk": 38,
+        "fields": {
+            "name": "Archegryf",
+            "nickname": "arkegryf ",
+            "weaknesses": [
+                30,
+                14,
+                7
+            ],
+            "distribution": [],
+            "alchemical_ingredients": [],
+            "feed": [],
+            "immunities": [
+                16,
+                12
+            ],
+            "clasification": 6,
+            "tacticts": 32
+        }
+    }
+]

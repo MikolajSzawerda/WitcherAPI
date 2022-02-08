@@ -1,0 +1,128 @@
+[
+    {
+        "model": "bestiary.feed",
+        "pk": 1,
+        "fields": {
+            "name": "Mięso, kości"
+        }
+    },
+    {
+        "model": "bestiary.feed",
+        "pk": 2,
+        "fields": {
+            "name": "Wszystkożerne."
+        }
+    },
+    {
+        "model": "bestiary.feed",
+        "pk": 3,
+        "fields": {
+            "name": "duże zwierzęta, takie jak bydło czy kozice, okazjonalnie ludzie i padlina"
+        }
+    },
+    {
+        "model": "bestiary.feed",
+        "pk": 4,
+        "fields": {
+            "name": "Najpewniej mięsożerny"
+        }
+    },
+    {
+        "model": "bestiary.feed",
+        "pk": 5,
+        "fields": {
+            "name": "Odżywia się mięsem upolowanych leśnych stworzeń."
+        }
+    },
+    {
+        "model": "bestiary.feed",
+        "pk": 6,
+        "fields": {
+            "name": "Mięsożerny"
+        }
+    },
+    {
+        "model": "bestiary.feed",
+        "pk": 7,
+        "fields": {
+            "name": "Zwłoki"
+        }
+    },
+    {
+        "model": "bestiary.feed",
+        "pk": 8,
+        "fields": {
+            "name": "Siły witalne wyssane z mężczyzn"
+        }
+    },
+    {
+        "model": "bestiary.feed",
+        "pk": 9,
+        "fields": {
+            "name": "Odżywia się zwłokami"
+        }
+    },
+    {
+        "model": "bestiary.feed",
+        "pk": 10,
+        "fields": {
+            "name": "Pije krew"
+        }
+    },
+    {
+        "model": "bestiary.feed",
+        "pk": 11,
+        "fields": {
+            "name": "Wszystkożerny"
+        }
+    },
+    {
+        "model": "bestiary.feed",
+        "pk": 12,
+        "fields": {
+            "name": "Nie wymaga przyjmowania pokarmu"
+        }
+    },
+    {
+        "model": "bestiary.feed",
+        "pk": 13,
+        "fields": {
+            "name": "Przystosowane do normalnego odżywania, krew traktują jak alkohol."
+        }
+    },
+    {
+        "model": "bestiary.feed",
+        "pk": 14,
+        "fields": {
+            "name": "Wszystkożerne"
+        }
+    },
+    {
+        "model": "bestiary.feed",
+        "pk": 15,
+        "fields": {
+            "name": "Prawdopodobnie mięsożerny"
+        }
+    },
+    {
+        "model": "bestiary.feed",
+        "pk": 16,
+        "fields": {
+            "name": "Stworzenia te mogą przetrwać długie miesiące bez wody"
+        }
+    },
+    {
+        "model": "bestiary.feed",
+        "pk": 17,
+        "fields": {
+            "name": "Są wszystkożerne. Pożywiają się głównie stworzeniami żyjącymi w pobliżu zbiorników wodnych."
+        }
+    },
+    {
+        "model": "bestiary.feed",
+        "pk": 18,
+        "fields": {
+            "name": "Szpik kostny"
+        }
+    }
+]

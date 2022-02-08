@@ -1,0 +1,625 @@
+[
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 1,
+        "fields": {
+            "name": "Szmaragdowy pył"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 2,
+        "fields": {
+            "name": "Trupi jad"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 3,
+        "fields": {
+            "name": "Cienisty pył"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 4,
+        "fields": {
+            "name": "Wątroba trolla jaskiniowego"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 5,
+        "fields": {
+            "name": "Cenne są trofea z głów i poroża biesów, za które można uzyskać całkiem sporą nagrodę. Można też uzyskać jego oko, a także mutagen z biesa ."
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 6,
+        "fields": {
+            "name": "Trofeum z czarta"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 7,
+        "fields": {
+            "name": "Mutagen z kuroliszka"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 8,
+        "fields": {
+            "name": "Trofeum z leszego"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 9,
+        "fields": {
+            "name": "Smocze łuski"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 10,
+        "fields": {
+            "name": "Trofeum z sukkuba"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 11,
+        "fields": {
+            "name": "Świetlisty pył"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 12,
+        "fields": {
+            "name": "Trofeum z trolla"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 13,
+        "fields": {
+            "name": "Włosy północnicy"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 14,
+        "fields": {
+            "name": "Mózg gryfa"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 15,
+        "fields": {
+            "name": "Biały ocet"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 16,
+        "fields": {
+            "name": "Trofeum z południcy"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 17,
+        "fields": {
+            "name": "Trofeum z północnicy"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 18,
+        "fields": {
+            "name": "Nasycony pył"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 19,
+        "fields": {
+            "name": "Skóra Tłuszcz Surowe mięso"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 20,
+        "fields": {
+            "name": "Kość potwora"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 21,
+        "fields": {
+            "name": "Łajno biesa"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 22,
+        "fields": {
+            "name": "Mózg potwora"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 23,
+        "fields": {
+            "name": "Trofea z Leszego, żywica z Leszego, kość potwora, mutagen, sproszkowana tkanka potwora"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 24,
+        "fields": {
+            "name": "Skóra bazyliszka"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 25,
+        "fields": {
+            "name": "Skóra z widłogona"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 26,
+        "fields": {
+            "name": "Trofeum z gryfa"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 27,
+        "fields": {
+            "name": "Kość potwora, Siarka, Gnijące mięso"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 28,
+        "fields": {
+            "name": "Pył śmierci"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 29,
+        "fields": {
+            "name": "Krew potwora"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 30,
+        "fields": {
+            "name": "Oko biesa"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 31,
+        "fields": {
+            "name": "Mutagen z prastarego leszego"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 32,
+        "fields": {
+            "name": "Pióra gryfa"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 33,
+        "fields": {
+            "name": "Mutagen z sukkuba"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 34,
+        "fields": {
+            "name": "Mutagen z leszego"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 35,
+        "fields": {
+            "name": "Kieł potwora"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 36,
+        "fields": {
+            "name": "mutagen z czarta"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 37,
+        "fields": {
+            "name": "Mutagen z archegryfa"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 38,
+        "fields": {
+            "name": "Mutagen z północnicy"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 39,
+        "fields": {
+            "name": "Trofeum z echidny"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 40,
+        "fields": {
+            "name": "Trofeum z widłogona"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 41,
+        "fields": {
+            "name": "Mutagen z echidny"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 42,
+        "fields": {
+            "name": "Piąta esencja"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 43,
+        "fields": {
+            "name": "Mutagen z trolla"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 44,
+        "fields": {
+            "name": "Serce golema"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 45,
+        "fields": {
+            "name": "Jajo gryfa"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 46,
+        "fields": {
+            "name": "Jajo kuroliszka"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 47,
+        "fields": {
+            "name": "Żołądek kuroliszka"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 48,
+        "fields": {
+            "name": "Zgniłe mięso, siarka"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 49,
+        "fields": {
+            "name": "Pióro gryfa"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 50,
+        "fields": {
+            "name": "Toksyna"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 51,
+        "fields": {
+            "name": "Trofeum z baby cmentarnej"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 52,
+        "fields": {
+            "name": "Szpik alghula"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 53,
+        "fields": {
+            "name": "Wątroba potwora"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 54,
+        "fields": {
+            "name": "Esencja upiora"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 55,
+        "fields": {
+            "name": "Kły bestii , Wątroba bestii , Wilcza skóra"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 56,
+        "fields": {
+            "name": "Skóra trolla"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 57,
+        "fields": {
+            "name": "Esencja żywiołu"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 58,
+        "fields": {
+            "name": "Esencja potwora"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 59,
+        "fields": {
+            "name": "Ucho baby cmentarnej"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 60,
+        "fields": {
+            "name": "Trofeum z biesa"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 61,
+        "fields": {
+            "name": "Trofeum z kuroliszka"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 62,
+        "fields": {
+            "name": "Serce potwora"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 63,
+        "fields": {
+            "name": "Mięso gryfa"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 64,
+        "fields": {
+            "name": "Ślina potwora"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 65,
+        "fields": {
+            "name": "Skóra czarta"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 66,
+        "fields": {
+            "name": "Mutagen z gryfa"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 67,
+        "fields": {
+            "name": "Miecz Addan Deith"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 68,
+        "fields": {
+            "name": "Niezwykle cennym składnikiem alchemicznym występującym w ciałach topielców jest tak zwany \" kwas Ginatzy \". W alchemii wykorzystywane są też ich języki oraz jad trupi . Natomiast trofea z ich głów można sprzedać za całkiem niezłą sumkę."
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 69,
+        "fields": {
+            "name": "surowe mięso"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 70,
+        "fields": {
+            "name": "Sproszkowana tkanka potwora"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 71,
+        "fields": {
+            "name": "Serce gryfa"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 72,
+        "fields": {
+            "name": "Szpon potwora"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 73,
+        "fields": {
+            "name": "Kosmyk włosów echidny"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 74,
+        "fields": {
+            "name": "Mutagen z czarta"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 75,
+        "fields": {
+            "name": "Mutagen z baby cmentarnej"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 76,
+        "fields": {
+            "name": "Oko potwora"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 77,
+        "fields": {
+            "name": "Mutagen z widłogona"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 78,
+        "fields": {
+            "name": "Krew ghula , Trupi jad , Limfa abominacji , Kwas Ginatzy , Biały ocet ,"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 79,
+        "fields": {
+            "name": "Jęzor potwora"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 80,
+        "fields": {
+            "name": "Żywica leszego"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 81,
+        "fields": {
+            "name": "Muszelka"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 82,
+        "fields": {
+            "name": "Szpony gryfa"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 83,
+        "fields": {
+            "name": "Esencja wody"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 84,
+        "fields": {
+            "name": "Psie sadło Surowe mięso"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 85,
+        "fields": {
+            "name": "Gruczoły jadowe"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 86,
+        "fields": {
+            "name": "Nasycone odłamki"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 87,
+        "fields": {
+            "name": "Większy kamień runiczny Trygław"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 88,
+        "fields": {
+            "name": "Mutagen z biesa"
+        }
+    },
+    {
+        "model": "bestiary.alchemicalingredient",
+        "pk": 89,
+        "fields": {
+            "name": "Oko gryfa"
+        }
+    }
+]

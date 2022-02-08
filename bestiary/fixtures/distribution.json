@@ -1,0 +1,247 @@
+[
+    {
+        "model": "bestiary.distribution",
+        "pk": 1,
+        "fields": {
+            "place": "Skellige"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 2,
+        "fields": {
+            "place": "Puszcza Oxenfurcka"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 3,
+        "fields": {
+            "place": "Wieś Boxholm"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 4,
+        "fields": {
+            "place": "Mroczne zakamarki ludzkich miast, cmentarze, stare ruiny, opuszczone domostwa"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 5,
+        "fields": {
+            "place": "Toussaint"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 6,
+        "fields": {
+            "place": "Występuje w lasach Kontynentu i Skellige ,oraz w niektórych częściach Kaer Morhen"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 7,
+        "fields": {
+            "place": "Na swoje leże wybiera ciemne i wilgotne miejsca, jak jaskinie, piwnice czy kanały miejskie"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 8,
+        "fields": {
+            "place": "Cmentarze, krypty, pobojowiska i inne miejsca pełne trupów"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 9,
+        "fields": {
+            "place": "Topielce zamieszkują tereny nad zbiornikami słodkowodnymi - jeziora, rzeki, stawy czy bagna. Niektóre zamieszkują też w sztucznie wybudowanych kanałach w większych ludzkich miastach."
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 10,
+        "fields": {
+            "place": "Pilnuje kryjówek, laboratoriów, sekretnych miejsc magów"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 11,
+        "fields": {
+            "place": "Każde miejsce na ziemi (niektóre wolą chłodniejszy klimat)."
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 12,
+        "fields": {
+            "place": "Jaskinia na północ od Kasztelu Wrońce"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 13,
+        "fields": {
+            "place": "Velen"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 14,
+        "fields": {
+            "place": "Cmentarze, krypty, pobojowiska i inne miejsca, gdzie można znaleźć zwłoki"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 15,
+        "fields": {
+            "place": "Studnia w Opuszczonej wsi"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 16,
+        "fields": {
+            "place": "Ruiny wieży nieopodal wsi Fyresdal"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 17,
+        "fields": {
+            "place": "jaskinie w południowo-zachodniej części Spikeroog"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 18,
+        "fields": {
+            "place": "Najczęściej zamieszkują miejsca położone daleko od siedzib ludzkich."
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 19,
+        "fields": {
+            "place": "Las pod Novigradem"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 20,
+        "fields": {
+            "place": "Dom niedaleko Kuternogi Katarzyny"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 21,
+        "fields": {
+            "place": "Kaer Morhen"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 22,
+        "fields": {
+            "place": "Lasy, łąki, pola, gospodarstwa"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 23,
+        "fields": {
+            "place": "Las nieopodal Zalipia"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 24,
+        "fields": {
+            "place": "Blisko miejsc pochówku zmarłych (cmentarze lub pola bitewne)"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 25,
+        "fields": {
+            "place": "Żalnik we wsi Zalipie"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 26,
+        "fields": {
+            "place": "Las przy wsi Ferlund"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 27,
+        "fields": {
+            "place": "Biały Sad"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 28,
+        "fields": {
+            "place": "Leszy zamieszkuje niedostępne mateczniki leśne, puszcze i bory."
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 29,
+        "fields": {
+            "place": "Jaskinia na północny zachód od obozowiska górników"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 30,
+        "fields": {
+            "place": "Żyje w dziczy, z głodu zbliża się do ludzkich osiedli i atakuje gospodarstwa"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 31,
+        "fields": {
+            "place": "Pustynia Ddiddiwedht"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 32,
+        "fields": {
+            "place": "Lasy w pobliżu ludzkich osad"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 33,
+        "fields": {
+            "place": "Pojawia się wszędzie tam, gdzie rozkaże mu Dziki Gon"
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 34,
+        "fields": {
+            "place": "Biesy występują w niezamieszkanych lasach i polanach, czasami ruinach."
+        }
+    },
+    {
+        "model": "bestiary.distribution",
+        "pk": 35,
+        "fields": {
+            "place": "Pole przy wsi Podgaje"
+        }
+    }
+]

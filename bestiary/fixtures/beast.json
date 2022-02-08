@@ -1,0 +1,17 @@
+[
+    {
+        "model": "bestiary.beast",
+        "pk": 1,
+        "fields": {
+            "name": "Leszy",
+            "nickname": "leszy",
+            "clasification": 1,
+            "weaknesses": [1, 2],
+            "distribution": [1, 2],
+            "alchemical_ingredients": [],
+            "feed": [1, 2],
+            "immunities": [1, 2],
+            "tacticts": 1
+        }
+    }
+]
