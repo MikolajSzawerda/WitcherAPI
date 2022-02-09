@@ -1,5 +1,5 @@
 from django.db import models
-
+from autoslug import AutoSlugField
 # Create your models here.
 
 class Clasification(models.Model):
@@ -36,7 +36,8 @@ class Beast(models.Model):
     clasification = models.ForeignKey(Clasification, on_delete=models.CASCADE)
     weaknesses = models.ManyToManyField(Weakness)
     distribution = models.ManyToManyField(Distribution)
-    tacticts = models.ForeignKey(Tactics, on_delete=models.CASCADE, blank=True, null=True)
+    tactics = models.ForeignKey(Tactics, on_delete=models.CASCADE, blank=True, null=True)
     alchemical_ingredients = models.ManyToManyField(AlchemicalIngredient)
     feed = models.ManyToManyField(Feed)
     immunities = models.ManyToManyField(Immunity)
+    slug = AutoSlugField(null=True, default=None, unique=True, populate_from='name')
