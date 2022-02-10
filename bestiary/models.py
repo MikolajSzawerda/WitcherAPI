@@ -1,5 +1,7 @@
+from django.conf import settings
 from django.db import models
 from autoslug import AutoSlugField
+from django.core.files.storage import FileSystemStorage
 # Create your models here.
 
 class Clasification(models.Model):
@@ -41,3 +43,4 @@ class Beast(models.Model):
     feed = models.ManyToManyField(Feed)
     immunities = models.ManyToManyField(Immunity)
     slug = AutoSlugField(null=True, default=None, unique=True, populate_from='name')
+    image = models.ImageField(upload_to='beasts/', null=True, blank=True)

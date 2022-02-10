@@ -24,7 +24,7 @@
                 6
             ],
             "clasification": 1,
-            "tacticts": 28
+            "tactics": 28
         }
     },
     {
@@ -53,7 +53,7 @@
                 15
             ],
             "clasification": 11,
-            "tacticts": 12
+            "tactics": 12
         }
     },
     {
@@ -82,7 +82,7 @@
             "feed": [],
             "immunities": [],
             "clasification": 11,
-            "tacticts": 21
+            "tactics": 21
         }
     },
     {
@@ -110,7 +110,7 @@
             "feed": [],
             "immunities": [],
             "clasification": 11,
-            "tacticts": 19
+            "tactics": 19
         }
     },
     {
@@ -136,7 +136,7 @@
                 16
             ],
             "clasification": 6,
-            "tacticts": 14
+            "tactics": 14
         }
     },
     {
@@ -166,7 +166,7 @@
                 13
             ],
             "clasification": 1,
-            "tacticts": 18
+            "tactics": 18
         }
     },
     {
@@ -191,7 +191,7 @@
                 11
             ],
             "clasification": 4,
-            "tacticts": 20
+            "tactics": 20
         }
     },
     {
@@ -217,7 +217,7 @@
             ],
             "immunities": [],
             "clasification": 9,
-            "tacticts": 30
+            "tactics": 30
         }
     },
     {
@@ -245,7 +245,7 @@
                 4
             ],
             "clasification": 5,
-            "tacticts": 1
+            "tactics": 1
         }
     },
     {
@@ -275,7 +275,7 @@
             ],
             "immunities": [],
             "clasification": 4,
-            "tacticts": 26
+            "tactics": 26
         }
     },
     {
@@ -301,7 +301,7 @@
                 1
             ],
             "clasification": 3,
-            "tacticts": 13
+            "tactics": 13
         }
     },
     {
@@ -329,7 +329,7 @@
             "feed": [],
             "immunities": [],
             "clasification": 6,
-            "tacticts": 29
+            "tactics": 29
         }
     },
     {
@@ -358,7 +358,7 @@
                 14
             ],
             "clasification": 1,
-            "tacticts": 31
+            "tactics": 31
         }
     },
     {
@@ -383,7 +383,7 @@
             ],
             "immunities": [],
             "clasification": 10,
-            "tacticts": 27
+            "tactics": 27
         }
     },
     {
@@ -411,7 +411,7 @@
                 7
             ],
             "clasification": 4,
-            "tacticts": 10
+            "tactics": 10
         }
     },
     {
@@ -438,7 +438,7 @@
             "feed": [],
             "immunities": [],
             "clasification": 1,
-            "tacticts": 8
+            "tactics": 8
         }
     },
     {
@@ -465,7 +465,7 @@
             "feed": [],
             "immunities": [],
             "clasification": 7,
-            "tacticts": 5
+            "tactics": 5
         }
     },
     {
@@ -516,7 +516,7 @@
             "feed": [],
             "immunities": [],
             "clasification": 8,
-            "tacticts": 33
+            "tactics": 33
         }
     },
     {
@@ -544,7 +544,7 @@
             "feed": [],
             "immunities": [],
             "clasification": 8,
-            "tacticts": 15
+            "tactics": 15
         }
     },
     {
@@ -568,7 +568,7 @@
             "feed": [],
             "immunities": [],
             "clasification": 8,
-            "tacticts": 2
+            "tactics": 2
         }
     },
     {
@@ -595,7 +595,7 @@
             "feed": [],
             "immunities": [],
             "clasification": 1,
-            "tacticts": 7
+            "tactics": 7
         }
     },
     {
@@ -625,7 +625,7 @@
                 3
             ],
             "clasification": 6,
-            "tacticts": 11
+            "tactics": 11
         }
     },
     {
@@ -654,7 +654,7 @@
             "feed": [],
             "immunities": [],
             "clasification": 1,
-            "tacticts": 9
+            "tactics": 9
         }
     },
     {
@@ -677,7 +677,7 @@
             ],
             "immunities": [],
             "clasification": 3,
-            "tacticts": 6
+            "tactics": 6
         }
     },
     {
@@ -698,7 +698,7 @@
                 8
             ],
             "clasification": 10,
-            "tacticts": 22
+            "tactics": 22
         }
     },
     {
@@ -726,7 +726,7 @@
             "feed": [],
             "immunities": [],
             "clasification": 1,
-            "tacticts": 4
+            "tactics": 4
         }
     },
     {
@@ -748,7 +748,7 @@
                 2
             ],
             "clasification": 2,
-            "tacticts": 16
+            "tactics": 16
         }
     },
     {
@@ -852,7 +852,7 @@
             "feed": [],
             "immunities": [],
             "clasification": 6,
-            "tacticts": 24
+            "tactics": 24
         }
     },
     {
@@ -886,7 +886,7 @@
             ],
             "immunities": [],
             "clasification": 6,
-            "tacticts": 17
+            "tactics": 17
         }
     },
     {
@@ -914,7 +914,7 @@
             "feed": [],
             "immunities": [],
             "clasification": 7,
-            "tacticts": 3
+            "tactics": 3
         }
     },
     {
@@ -934,7 +934,7 @@
                 10
             ],
             "clasification": 4,
-            "tacticts": 23
+            "tactics": 23
         }
     },
     {
@@ -960,7 +960,7 @@
             ],
             "immunities": [],
             "clasification": 3,
-            "tacticts": 25
+            "tactics": 25
         }
     },
     {
@@ -982,7 +982,7 @@
                 12
             ],
             "clasification": 6,
-            "tacticts": 32
+            "tactics": 32
         }
     }
 ]
