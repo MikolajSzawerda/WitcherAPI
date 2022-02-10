@@ -1,18 +1,14 @@
-from django.shortcuts import render
-from django.http import HttpResponse
 from .models import Beast
+from django.views.generic import ListView, DetailView
 
 
-def index(req):
-    beasts = Beast.objects.all()
-    beasts_data = [(b.name, b.slug) for b in beasts]
-    return render(req, 'bestiary/beasts.html',{
-        "beasts": beasts_data
-    })
+class BeastsListView(ListView):
+    model = Beast
+    template_name = "bestiary/beasts.html"
+    context_object_name = "beasts"
 
 
-def beast(req, name):
-    beast = Beast.objects.get(slug=name)
-    return render(req, 'bestiary/beast.html', {
-        'beast': beast
-    })
+class BeastDetailView(DetailView):
+    model = Beast
+    template_name = "bestiary/beast.html"
+    context_object_name = "beast"

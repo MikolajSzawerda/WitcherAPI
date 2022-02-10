@@ -8,8 +8,8 @@
 </head>
 <body>
     <ul>
-        {%for name, slug in beasts%}
-        <li><a href="{% url 'beast-by-slug' slug%}">{{name}}</a></li>
+        {%for b in beasts%}
+        <li><a href="{% url 'beast-by-slug' b.slug%}">{{b.name}}</a></li>
         {%endfor%}
     </ul>
 </body>

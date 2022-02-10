@@ -3,6 +3,6 @@ from . import views
 
 
 urlpatterns = [
-    path('', views.index),
-    path('<slug:name>', views.beast, name='beast-by-slug')
+    path('', views.BeastsListView.as_view()),
+    path('<slug:slug>', views.BeastDetailView.as_view(), name='beast-by-slug')
 ]
