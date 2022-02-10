@@ -8,7 +8,11 @@
 </head>
 <body>
     <ul>
-        {%for b in beasts%}
+        <form method="get">
+            {{filter.form}}
+            <input type="submit">
+        </form>
+        {%for b in filter.qs%}
         <li><a href="{% url 'beast-by-slug' b.slug%}">{{b.name}}</a></li>
         {%endfor%}
     </ul>

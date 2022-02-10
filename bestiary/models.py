@@ -4,12 +4,20 @@ from autoslug import AutoSlugField
 from django.core.files.storage import FileSystemStorage
 # Create your models here.
 
+
+
 class Clasification(models.Model):
     name = models.CharField(max_length=250)
+
+    def __str__(self):
+        return self.name
 
 
 class Weakness(models.Model):
     name = models.CharField(max_length=250)
+
+    def __str__(self):
+        return self.name
 
 
 class Distribution(models.Model):
@@ -23,13 +31,22 @@ class Tactics(models.Model):
 class AlchemicalIngredient(models.Model):
     name = models.CharField(max_length=100)
 
+    def __str__(self):
+        return self.name
+
 
 class Feed(models.Model):
     name = models.CharField(max_length=250)
 
+    def __str__(self):
+        return self.name
+
 
 class Immunity(models.Model):
     name = models.CharField(max_length=250)
+
+    def __str__(self):
+        return self.name
 
 
 class Beast(models.Model):
