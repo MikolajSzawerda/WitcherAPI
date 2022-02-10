@@ -1,20 +1,43 @@
+{% load bootstrap5 %}
+{% load static %}
+
+{% bootstrap_css %}
+{% bootstrap_javascript %}
+
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bestiary</title>
+    <link rel="stylesheet" href="{% static 'bestiary/beasts.css' %}">
 </head>
-<body>
-    <ul>
-        <form method="get">
-            {{filter.form}}
-            <input type="submit">
+
+<body class="bg-dark">
+    <div class="container align-items-center">
+        <form method="get" class="form-horizontal">
+            <div class="form-group">
+                {{filter.form}}
+            </div>
+            <input type="submit" class="btn btn-primary">
         </form>
-        {%for b in filter.qs%}
-        <li><a href="{% url 'beast-by-slug' b.slug%}">{{b.name}}</a></li>
-        {%endfor%}
-    </ul>
+        <div class="card-deck">
+            {%for b in filter.qs%}
+            <div class="card bg-gradient" style="width: 15rem;">
+                <div class="inner">
+                    <img src="{{b.image.url}}" class="card-img-top">
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">{{b.name}}</h5>
+                    <p class="card-text text-justify">{{b.tactics}}</p>
+                </div>
+                <a href="{% url 'beast-by-slug' b.slug%}" class="btn btn-primary">{{b.name}}</a>
+            </div>
+            {%endfor%}
+        </div>
+    </div>
 </body>
+
 </html>

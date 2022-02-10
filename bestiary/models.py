@@ -27,6 +27,9 @@ class Distribution(models.Model):
 class Tactics(models.Model):
     description = models.CharField(max_length=500)
 
+    def __str__(self) -> str:
+        return self.description
+
 
 class AlchemicalIngredient(models.Model):
     name = models.CharField(max_length=100)
