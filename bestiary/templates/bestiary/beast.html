@@ -1,5 +1,4 @@
 {% load bootstrap5 %}
-
 {% bootstrap_css %}
 {% bootstrap_javascript %}
 
@@ -18,5 +17,8 @@
     <p>
         {{beast.tactics.description}}
     </p>
+    {% if isfav %}
+        <div>My favourite</div>
+    {% endif %}
 </body>
 </html>

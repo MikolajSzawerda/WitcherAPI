@@ -1,4 +1,9 @@
 {% extends "base.html" %}
+{% load static %}
+
+{% block css_files %}
+<link rel="stylesheet" href="{% static 'bestiary/beasts.css' %}">
+{% endblock %}
 
 {% block content %}
 <div class="container align-items-center">
@@ -11,11 +16,19 @@
     <div class="card-deck">
         {%for b in filter.qs%}
         <div class="card bg-gradient" style="width: 15rem;">
+            <form action="favourite" method="post">
+                {% csrf_token %}
+                <input type="hidden" name="beast_id" value="{{b.id}}">
+                <button type="submit" class="btn btn-success">Favourite</button>
+            </form>
             <div class="inner">
                 <img src="{{b.image.url}}" class="card-img-top">
             </div>
             <div class="card-body">
                 <h5 class="card-title">{{b.name}}</h5>
+                {% if b.id in fav_ids%}
+                <div>My favourite</div>
+                {% endif %}
                 <p class="card-text text-justify">{{b.tactics}}</p>
             </div>
             <a href="{% url 'beast-by-slug' b.slug%}" class="btn btn-primary">{{b.name}}</a>
