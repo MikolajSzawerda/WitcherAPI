@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'bestiary',
     'django_filters',
     'bootstrap5',
-    'rest_framework'
+    'rest_framework',
+    'django_extensions'
 ]
 
 MIDDLEWARE = [
