@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-obl(r2lgwgf#b-_gc%z5jljbs9!o59a1i6deab))l%d9=$zg67
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.1.104']
+ALLOWED_HOSTS = ['192.168.1.104', 'localhost']
 
 
 # Application definition
@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'bestiary',
     'django_filters',
     'bootstrap5',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [

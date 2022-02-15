@@ -20,5 +20,6 @@ from django.conf import settings
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('beasts/', include('bestiary.urls'))
+    path('beasts/', include('bestiary.urls')),
+    path('api/', include('bestiary_api.urls'))
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
