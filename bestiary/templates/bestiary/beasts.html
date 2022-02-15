@@ -6,34 +6,48 @@
 {% endblock %}
 
 {% block content %}
+{% include 'bestiary/includes/navigation.html' %}
 <div class="container align-items-center">
-    <form method="get" class="form-horizontal">
-        <div class="form-group">
-            {{filter.form}}
-        </div>
-        <input type="submit" class="btn btn-primary">
-    </form>
-    <div class="card-deck">
-        {%for b in filter.qs%}
-        <div class="card bg-gradient" style="width: 15rem;">
-            <form action="favourite" method="post">
-                {% csrf_token %}
-                <input type="hidden" name="beast_id" value="{{b.id}}">
-                <button type="submit" class="btn btn-success">Favourite</button>
-            </form>
-            <div class="inner">
-                <img src="{{b.image.url}}" class="card-img-top">
+    <div class="row">
+        <div class="col-lg-4">
+            <div class="card">
+                <form id="filter-form">
+                    <div class="card-body">
+
+                        <div class="row">
+                            <input type="submit" class="btn btn-primary" value="Filter">
+                        </div>
+                        <div class="row">
+                            {{filter.form}}
+                        </div>
+                    </form>
+                    </div>
             </div>
-            <div class="card-body">
-                <h5 class="card-title">{{b.name}}</h5>
-                {% if b.id in fav_ids%}
-                <div>My favourite</div>
-                {% endif %}
-                <p class="card-text text-justify">{{b.tactics}}</p>
-            </div>
-            <a href="{% url 'beast-by-slug' b.slug%}" class="btn btn-primary">{{b.name}}</a>
         </div>
-        {%endfor%}
+        <div class="col">
+            <div class="card-deck justify-content-center">
+            {%for b in filter.qs%}
+            <div class="card bg-gradient" style="width: 15rem;">
+                <form action="favourite" method="post">
+                    {% csrf_token %}
+                    <input type="hidden" name="beast_id" value="{{b.id}}">
+                    <button type="submit" class="btn btn-success">Favourite</button>
+                </form>
+                <div class="inner">
+                    <img src="{{b.image.url}}" class="card-img-top">
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">{{b.name}}</h5>
+                    {% if b.id in fav_ids%}
+                    <div>My favourite</div>
+                    {% endif %}
+                    <p class="card-text text-justify">{{b.tactics}}</p>
+                </div>
+                <a href="{% url 'beast-by-slug' b.slug%}" class="btn btn-primary">{{b.name}}</a>
+            </div>
+            {%endfor%}
+        </div>
+    </div>
     </div>
 </div>
 {% endblock %}

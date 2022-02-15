@@ -1,6 +1,5 @@
-{% load bootstrap5 %}
-{% bootstrap_css %}
-{% bootstrap_javascript %}
+{% extends "base.html" %}
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -11,14 +10,20 @@
     <title>{{beast.name}}</title>
 </head>
 <body>
-    <h1>{{beast.name}}</h1>
-    <h3>{{beast.nickname}}</h3>
-    <img src="{{beast.image.url}}" width="250" height="250">
-    <p>
-        {{beast.tactics.description}}
-    </p>
-    {% if isfav %}
-        <div>My favourite</div>
-    {% endif %}
+    {% block content%}
+    {% include 'bestiary/includes/navigation.html' %}
+    <div class="container">
+
+        <h1 class="text-center">{{beast.name}}</h1>
+        <h3>{{beast.nickname}}</h3>
+        <img src="{{beast.image.url}}" width="250" height="250">
+        <p>
+            {{beast.tactics.description}}
+        </p>
+        {% if isfav %}
+            <div>My favourite</div>
+        {% endif %}
+        {% endblock %}
+    </div>
 </body>
 </html>
