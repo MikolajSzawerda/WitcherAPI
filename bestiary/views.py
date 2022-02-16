@@ -26,9 +26,26 @@ class BeastDetailView(DetailView):
     def get_context_data(self, **kwargs: Any) -> Dict[str, Any]:
         context = super().get_context_data(**kwargs)
         fav_ids = self.request.session.get('fav', list())
-        print(fav_ids)
         context['isfav'] = (self.object.id in fav_ids)
-        print(context['isfav'])
+        context['distribution'] = self.object.distribution.first()
+        context['data'] = (
+            {
+                'title': "Słabości",
+                'objs': self.object.weaknesses.all()
+            },
+            {
+                'title': "Składniki alchemiczne",
+                'objs': self.object.alchemical_ingredients.all()
+            },
+            {
+                'title': "Pożywienie",
+                'objs': self.object.feed.all()
+            },
+            {
+                'title': "Odporności",
+                'objs': self.object.immunities.all()
+            },
+        )
         return context
 
 

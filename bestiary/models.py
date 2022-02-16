@@ -23,6 +23,9 @@ class Weakness(models.Model):
 class Distribution(models.Model):
     place = models.CharField(max_length=250)
 
+    def __str__(self):
+        return self.place
+
 
 class Tactics(models.Model):
     description = models.CharField(max_length=500)
